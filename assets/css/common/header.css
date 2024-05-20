@@ -18,6 +18,11 @@
     margin: auto var(--gap);
 }
 
+#menu a:hover {
+  transition: 0.15s;
+  color: var(--hover-highlight);
+}
+
 .logo {
     flex-wrap: inherit;
 }

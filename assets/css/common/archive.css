@@ -32,6 +32,11 @@
     margin: 10px 0;
 }
 
+.archive-entry:hover h3{
+  transition: 0.15s;
+  color: var(--hover-highlight);
+}
+
 .archive-entry-title {
     margin: 5px 0;
     font-weight: 400;
